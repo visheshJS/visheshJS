@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Masterhead" style=" width: 850px; height: 310px; margin-left:20px;"/>
-<h1 align="center">Hi👋🏻, I'm Vishesh Sharma</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&center=true&width=450&lines=Hi%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Vishesh+Sharma" alt="Typing SVG" /></a>
 <h3 align="center">A Web-Development Enthusiast from DTU</h3>
 <img style="width: 380px; height: 250px;" align ="right" alt="coding"  src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
 
