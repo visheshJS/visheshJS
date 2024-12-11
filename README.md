@@ -24,14 +24,9 @@
 
 
 <div align="center">
-  <!-- Streak Box -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=visheshjs" alt="Streak" width="300" height="150" />
-  
-  <!-- Top Languages Box -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=visheshjs&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="150" />
-  
-  <!-- Contributions Box -->
-  <img src="https://github-readme-stats.vercel.app/api?username=visheshjs&show_icons=true&locale=en" alt="Contributions" width="300" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=visheshjs" alt="Streak Stats" width="350" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=visheshjs&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="350" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=visheshjs&show_icons=true&locale=en" alt="GitHub Stats" width="350" height="200" />
 </div>
     
 
