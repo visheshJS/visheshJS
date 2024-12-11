@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Masterhead" style=" width: 850px; height: 310px; margin-left:20px;"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=1000&pause=1000&multiline=true&width=850&height=152&lines=Hi!!%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Vishesh+Sharma;a+budding+Software%2FWeb+Developer+from+Delhi+%F0%9F%98%8A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&multiline=true&width=850&height=152&lines=Hi!!%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Vishesh+Sharma;a+budding+Software%2FWeb+Developer+from+Delhi+%F0%9F%98%8A" alt="Typing SVG" /></a>
 
 <img style="width: 380px; height: 250px;" align ="right" alt="coding"  src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
 
