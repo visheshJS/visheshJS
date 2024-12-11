@@ -1,7 +1,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=0DAFE9&background=C2FF4800&multiline=true&width=850&height=152&lines=Hi!!%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Vishesh+Sharma;a+budding+Software%2FWeb+Developer+from+Delhi+%F0%9F%98%8A" alt="Typing SVG" /></a>
 
-<img style="width: 380px; height: 250px;" align ="right" alt="coding"  src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
+<img style="width: 320px;" align ="right" alt="coding"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9hNnUxbnVudzBmZjhzZmRwMThja2dqc2Fsd2tsaW05cXV1NDQwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshjs&label=Profile%20views&color=0e75b6&style=flat" alt="visheshjs"/> </p>
 
