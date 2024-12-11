@@ -24,14 +24,17 @@
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: center;">
+    <!-- Streak Stats -->
     <p style="width: 400px; height: 300px; margin: 0;">
-        <img style="width: 100%; height: 100%;" src="https://github-readme-streak-stats.herokuapp.com?user=visheshjs" alt="Streak" />
+        <img style="width: 100%; height: 100%;" src="https://streak-stats.demolab.com?user=visheshjs" alt="GitHub Streak" />
     </p>
+    <!-- Top Languages -->
     <p style="width: 400px; height: 300px; margin: 0;">
-        <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=visheshjs&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+        <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=visheshjs&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </p>
+    <!-- GitHub Stats -->
     <p style="width: 400px; height: 300px; margin: 0;">
-        <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=visheshjs&show_icons=true&locale=en" alt="contri" />
+        <img style="width: 100%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=visheshjs&show_icons=true&locale=en" alt="GitHub Stats" />
     </p>
 </div>
 
