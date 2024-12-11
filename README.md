@@ -25,9 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=visheshjs&show_icons=true&locale=en" alt="visheshjs" />
 </p>
 
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=visheshjs" alt="GitHub Streak Stats" />
-</p>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=visheshjs)
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=visheshjs&show_icons=true&locale=en&layout=compact" alt="visheshjs"/>
 </p>
