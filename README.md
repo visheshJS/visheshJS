@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Masterhead" style=" width: 900px; height: 330px; margin-left:20px;"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Masterhead" style=" width: 850px; height: 310px; margin-left:20px;"/>
 <h1 align="center">Hi👋🏻, I'm Vishesh Sharma</h1>
 <h3 align="center">A Web-Development Enthusiast from DTU</h3>
 <img align ="right" alt="coding" width ="500" src="https://camo.githubusercontent.com/0b9753fb9d093baf36bb3eb627fd2544526987d37c285ef3695b12352007ab7d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578636e687a4d57737959574a7564446c78644773784f575a7062325a366132356b6247396d646d6f30626d566c4e6d68314d32673462695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f663369774a464f564f777579374b364646772f67697068792e676966">
