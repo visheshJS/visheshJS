@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=15E2E9&background=C2FF4800&multiline=true&width=850&height=152&lines=Hi!!%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Vishesh+Sharma;a+budding+Software%2FWeb+Developer+from+Delhi+%F0%9F%98%8A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=0DAFE9&background=C2FF4800&multiline=true&width=850&height=152&lines=Hi!!%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Vishesh+Sharma;a+budding+Software%2FWeb+Developer+from+Delhi+%F0%9F%98%8A" alt="Typing SVG" /></a>
 
 <img style="width: 380px; height: 250px;" align ="right" alt="coding"  src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
 
