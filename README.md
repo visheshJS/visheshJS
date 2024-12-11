@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxmNDBwMHQ4NDE3aGhldGk3bjl2dmxtbmh0N215cXV3dXU1amRreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" alt="Masterhead" style=" width: 870px; height: 300px; margin-left:20px;"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxmNDBwMHQ4NDE3aGhldGk3bjl2dmxtbmh0N215cXV3dXU1amRreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" alt="Masterhead" style=" width: 870px; height: 250px; margin-left:20px;"/>
 <h1 align="center">Hi 👋, I'm Vishesh Sharma</h1>
 <h3 align="center">A Web-Development Enthusiast from DTU</h3>
 <img align ="right" alt="coding" width ="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9hNnUxbnVudzBmZjhzZmRwMThja2dqc2Fsd2tsaW05cXV1NDQwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
